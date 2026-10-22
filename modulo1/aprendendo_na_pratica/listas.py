@@ -43,7 +43,7 @@ print("Minha lista apos insert(ABC):", minha_lista)
 #método pop(): remove e retorna o elemento de um índice específico
 elemento_removido = minha_lista.pop(3)
 print("Elemento removido:", elemento_removido)
-print("Minha lista após pop(5):", minha_lista)
+print("Minha lista após pop(3):", minha_lista)
 
 #método remove(): remove um elemento específico da lista
 minha_lista.remove(False)
